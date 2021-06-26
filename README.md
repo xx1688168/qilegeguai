@@ -1,12 +1,4 @@
-- 👋 Hi, I’m @qilegeguai
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-qilegeguai/qilegeguai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to takeport: 7890
+eport: 7890
 socks-port: 7891
 allow-lan: true
 mode: Rule
